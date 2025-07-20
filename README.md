@@ -17,15 +17,15 @@ A stylish and interactive **Tic-Tac-Toe game** built using **HTML**, **CSS**, an
 ## 📸 Preview
 
 - ### Draw
-![Game Preview](./Drwa.png)
+![Game Preview](./Draw.png)
 
-- ### when AI Win
+- ### When AI Win
 
 ![Game Preview](./AI_win.png)
 
 - ### You Win 
 
-![Game Preview](./You_wint.png)
+![Game Preview](./You_win.png)
 
 
 ---
