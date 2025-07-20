@@ -17,7 +17,7 @@ A stylish and interactive **Tic-Tac-Toe game** built using **HTML**, **CSS**, an
 ## 📸 Preview
 
 - ### Draw
-![Game Preview](./Draw.png)
+![Game Preview](./Draw.png )
 
 - ### When AI Win
 
@@ -35,9 +35,6 @@ A stylish and interactive **Tic-Tac-Toe game** built using **HTML**, **CSS**, an
 - HTML
 - CSS
 - JavaScript
-- [Canvas Confetti](https://www.npmjs.com/package/canvas-confetti)
+- Canvas Confetti.
 
----
-
-## 📂 Folder Structure
 
