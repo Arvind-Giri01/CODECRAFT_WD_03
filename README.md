@@ -16,7 +16,17 @@ A stylish and interactive **Tic-Tac-Toe game** built using **HTML**, **CSS**, an
 
 ## 📸 Preview
 
-![Game Preview](./screenshot.png)
+- ### Draw
+![Game Preview](./Drwa.png)
+
+- ### when AI Win
+
+![Game Preview](./AI_win.png)
+
+- ### You Win 
+
+![Game Preview](./You_wint.png)
+
 
 ---
 
